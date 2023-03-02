@@ -1,0 +1,106 @@
+<!--
+    Dev process
+    [ x ] The structure
+    [ o ] Languages | en-US only
+    [ x ] Pretty style | Always be the last one
+    [ O ] Hit enter to search
+    [ O ] Search in one window
+    [ O ] TTS | Inside object, so easy
+-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Search Pics and pronuce</title>
+        <style>
+            body {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                overflow: hidden;
+                margin: 10;
+                flex-direction: column;
+            }
+            button {
+                width: 50px;
+                height: 20px;
+                font-size: 16px;
+                background-color: rgb(215, 215, 215);
+                border: 1px solid rgb(215,215,215);
+                border-radius: 5px;
+            }
+            input[type = search] {
+                display: flex;
+                width: 500px;
+                height: 50px;
+                font-size: 20px;
+                border-radius: 7.5px;
+            }
+            fieldset {
+                border: 0;
+            }
+
+        </style>
+        <script src="./tts.js"></script>
+    </head>
+    <body>
+        <input type="search" id="search_bar" autofocus>
+        <fieldset>
+            <label for="lang_button">Current language: </label>
+            <button id="lang_button">de</button>
+        </fieldset>
+        <iframe src="" id="bing_frame" width="800" height="500" scrolling="no" style="border: 0;"></iframe>
+
+        <script>
+            // Fatch data from .json
+            let my_data;
+            fetch('502TPR.json')
+                .then(reseponse => reseponse.json())
+                .then(data => {
+                    my_data = data;
+                    console.log(my_data);
+                })
+                .catch(error => console.error(error));
+            
+
+            const search_bar = document.getElementById("search_bar");
+            const bing_frame = document.getElementById("bing_frame");
+            const lang_button = document.getElementById("lang_button");
+            let default_lang = "de";
+            // search_bar.value = "aufstehen";
+
+            lang_button.addEventListener("click", change_lang);
+            function change_lang() {
+                if (default_lang === "en") {
+                    lang_button.innerHTML = "de";
+                    default_lang = "de";
+                } else {
+                    lang_button.innerHTML = "en";
+                    default_lang = "en";
+                }
+            }
+
+            document.addEventListener("keyup",  function(event) {
+                if (event.keyCode === 13) {
+                    enter_press();
+                }
+            });
+            
+            setInterval(() => {
+                // console.log(my_data[random_number()].Word);
+                search_bar.value = my_data[random_number()].Word;
+                enter_press();
+            }, 10000);
+            
+            function enter_press() {
+                speakOut(text = search_bar.value,lang = default_lang);
+                bing_frame.src = `https://cn.bing.com/images/search?q=${search_bar.value + " in German"}&qs=n&form=QBILPG&sp=-1&pq=ja&sc=10-2&cvid=926E99E2886F4D658AC5972255B70DB3&ghsh=0&ghacc=0&first=1&tsc=ImageHoverTitle`;
+                setTimeout(() => {
+                    speakOut(text = search_bar.value,lang = default_lang);
+                }, 3000);
+            }
+            function random_number(min = 0, max = 501) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+        </script>
+    </body>
+</html>

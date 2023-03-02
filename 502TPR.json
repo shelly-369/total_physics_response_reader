@@ -1,0 +1,2134 @@
+[
+ {
+  "Number": 1,
+  "Word": "aufstehen"
+ },
+ {
+  "Number": 2,
+  "Word": "hinsetzen"
+ },
+ {
+  "Number": 3,
+  "Word": "gehen"
+ },
+ {
+  "Number": 4,
+  "Word": "halt"
+ },
+ {
+  "Number": 5,
+  "Word": "links abbiegen"
+ },
+ {
+  "Number": 6,
+  "Word": "rechts abbiegen"
+ },
+ {
+  "Number": 7,
+  "Word": "umdrehen"
+ },
+ {
+  "Number": 8,
+  "Word": "rückwärts gehen"
+ },
+ {
+  "Number": 9,
+  "Word": "springen"
+ },
+ {
+  "Number": 10,
+  "Word": "hüpfen"
+ },
+ {
+  "Number": 11,
+  "Word": "Bücken"
+ },
+ {
+  "Number": 12,
+  "Word": "hocken"
+ },
+ {
+  "Number": 13,
+  "Word": "Gehe 3 Schritte, 5 Schritte usw."
+ },
+ {
+  "Number": 14,
+  "Word": "Gesicht "
+ },
+ {
+  "Number": 15,
+  "Word": "Heben Sie Ihr rechtes Bein"
+ },
+ {
+  "Number": 16,
+  "Word": "Senken Sie Ihr Bein"
+ },
+ {
+  "Number": 17,
+  "Word": "schüttle mir die Hand"
+ },
+ {
+  "Number": 18,
+  "Word": "Küss mich"
+ },
+ {
+  "Number": 19,
+  "Word": "eine Faust machen"
+ },
+ {
+  "Number": 20,
+  "Word": "Klatsche in die Hände"
+ },
+ {
+  "Number": 21,
+  "Word": "Schnippe mit den Fingern"
+ },
+ {
+  "Number": 22,
+  "Word": "Welle"
+ },
+ {
+  "Number": 23,
+  "Word": "Gesichtssachen"
+ },
+ {
+  "Number": 24,
+  "Word": "lächeln"
+ },
+ {
+  "Number": 25,
+  "Word": "Husten"
+ },
+ {
+  "Number": 26,
+  "Word": "lachen"
+ },
+ {
+  "Number": 27,
+  "Word": "Weinen"
+ },
+ {
+  "Number": 28,
+  "Word": "niesen"
+ },
+ {
+  "Number": 29,
+  "Word": "öffne deinen Mund"
+ },
+ {
+  "Number": 30,
+  "Word": "Schließe deinen Mund"
+ },
+ {
+  "Number": 31,
+  "Word": "strecken Sie Ihre Zunge heraus"
+ },
+ {
+  "Number": 32,
+  "Word": "Stecke deine Zunge wieder hinein"
+ },
+ {
+  "Number": 33,
+  "Word": "Zwinker"
+ },
+ {
+  "Number": 34,
+  "Word": "blinzeln"
+ },
+ {
+  "Number": 35,
+  "Word": "mit der Nase wackeln"
+ },
+ {
+  "Number": 36,
+  "Word": "Allgemeine Verben, die Sie mit Objekten verwenden können"
+ },
+ {
+  "Number": 37,
+  "Word": "wo ist"
+ },
+ {
+  "Number": 38,
+  "Word": "berühren"
+ },
+ {
+  "Number": 39,
+  "Word": "Zeig es mir"
+ },
+ {
+  "Number": 40,
+  "Word": "abholen"
+ },
+ {
+  "Number": 41,
+  "Word": "hinlegen"
+ },
+ {
+  "Number": 42,
+  "Word": "lege es zurück"
+ },
+ {
+  "Number": 43,
+  "Word": "fallen"
+ },
+ {
+  "Number": 44,
+  "Word": "bewegen"
+ },
+ {
+  "Number": 45,
+  "Word": "gib mir"
+ },
+ {
+  "Number": 46,
+  "Word": "Nimm es zurück"
+ },
+ {
+  "Number": 47,
+  "Word": "werfen"
+ },
+ {
+  "Number": 48,
+  "Word": "fangen"
+ },
+ {
+  "Number": 49,
+  "Word": "umdrehen"
+ },
+ {
+  "Number": 50,
+  "Word": "setze die"
+ },
+ {
+  "Number": 51,
+  "Word": "drücken"
+ },
+ {
+  "Number": 52,
+  "Word": "ziehen"
+ },
+ {
+  "Number": 53,
+  "Word": "heben"
+ },
+ {
+  "Number": 54,
+  "Word": "Küchentischkram"
+ },
+ {
+  "Number": 55,
+  "Word": "Tasse"
+ },
+ {
+  "Number": 56,
+  "Word": "Platte"
+ },
+ {
+  "Number": 57,
+  "Word": "Schüssel"
+ },
+ {
+  "Number": 58,
+  "Word": "Messer"
+ },
+ {
+  "Number": 59,
+  "Word": "Gabel"
+ },
+ {
+  "Number": 60,
+  "Word": "Löffel"
+ },
+ {
+  "Number": 61,
+  "Word": "Serviette Taschentuch"
+ },
+ {
+  "Number": 62,
+  "Word": "Gericht"
+ },
+ {
+  "Number": 63,
+  "Word": "Großes rundes Serviertablett"
+ },
+ {
+  "Number": 64,
+  "Word": "Tablett, auf dem Sie Tee oder Kaffee servieren würden"
+ },
+ {
+  "Number": 65,
+  "Word": "Tisch"
+ },
+ {
+  "Number": 66,
+  "Word": "Stuhl"
+ },
+ {
+  "Number": 67,
+  "Word": "Küchengeräte"
+ },
+ {
+  "Number": 68,
+  "Word": "Pfanne"
+ },
+ {
+  "Number": 69,
+  "Word": "Ofen"
+ },
+ {
+  "Number": 70,
+  "Word": "Herd"
+ },
+ {
+  "Number": 71,
+  "Word": "sinken"
+ },
+ {
+  "Number": 72,
+  "Word": "Wasserhahn"
+ },
+ {
+  "Number": 73,
+  "Word": "Zähler"
+ },
+ {
+  "Number": 74,
+  "Word": "Schrank"
+ },
+ {
+  "Number": 75,
+  "Word": "Kühlschrank"
+ },
+ {
+  "Number": 76,
+  "Word": "Grundnahrungsmittel"
+ },
+ {
+  "Number": 77,
+  "Word": "Mehl"
+ },
+ {
+  "Number": 78,
+  "Word": "Zucker"
+ },
+ {
+  "Number": 79,
+  "Word": "Brot"
+ },
+ {
+  "Number": 80,
+  "Word": "Teeblätter"
+ },
+ {
+  "Number": 81,
+  "Word": "Kaffeesatz"
+ },
+ {
+  "Number": 82,
+  "Word": "Reis"
+ },
+ {
+  "Number": 83,
+  "Word": "Nüsse"
+ },
+ {
+  "Number": 84,
+  "Word": "Joghurt"
+ },
+ {
+  "Number": 85,
+  "Word": "Süßigkeiten usw."
+ },
+ {
+  "Number": 86,
+  "Word": "Getränke"
+ },
+ {
+  "Number": 87,
+  "Word": "Wasser"
+ },
+ {
+  "Number": 88,
+  "Word": "Milch"
+ },
+ {
+  "Number": 89,
+  "Word": "Saft"
+ },
+ {
+  "Number": 90,
+  "Word": "Soda"
+ },
+ {
+  "Number": 91,
+  "Word": "Joghurt"
+ },
+ {
+  "Number": 92,
+  "Word": "Kaffee"
+ },
+ {
+  "Number": 93,
+  "Word": "Tee"
+ },
+ {
+  "Number": 94,
+  "Word": "Früchte, Gemüse"
+ },
+ {
+  "Number": 95,
+  "Word": "Apfel"
+ },
+ {
+  "Number": 96,
+  "Word": "Banane"
+ },
+ {
+  "Number": 97,
+  "Word": "Orange"
+ },
+ {
+  "Number": 98,
+  "Word": "Pflaume"
+ },
+ {
+  "Number": 99,
+  "Word": "Trauben"
+ },
+ {
+  "Number": 100,
+  "Word": "Abb"
+ },
+ {
+  "Number": 101,
+  "Word": "Termine"
+ },
+ {
+  "Number": 102,
+  "Word": "Gründen"
+ },
+ {
+  "Number": 103,
+  "Word": "Zitrone"
+ },
+ {
+  "Number": 104,
+  "Word": "Granatapfel"
+ },
+ {
+  "Number": 105,
+  "Word": "Wassermelone"
+ },
+ {
+  "Number": 106,
+  "Word": "Tomate"
+ },
+ {
+  "Number": 107,
+  "Word": "Gurke"
+ },
+ {
+  "Number": 108,
+  "Word": "Zucchini"
+ },
+ {
+  "Number": 109,
+  "Word": "Zwiebel"
+ },
+ {
+  "Number": 110,
+  "Word": "Karotte"
+ },
+ {
+  "Number": 111,
+  "Word": "Aubergine"
+ },
+ {
+  "Number": 112,
+  "Word": "kleine Aubergine"
+ },
+ {
+  "Number": 113,
+  "Word": "Kartoffel"
+ },
+ {
+  "Number": 114,
+  "Word": "Knoblauch"
+ },
+ {
+  "Number": 115,
+  "Word": "Petersilie"
+ },
+ {
+  "Number": 116,
+  "Word": "Salat"
+ },
+ {
+  "Number": 117,
+  "Word": "Weinblätter"
+ },
+ {
+  "Number": 118,
+  "Word": "Sellerie"
+ },
+ {
+  "Number": 119,
+  "Word": "Minze"
+ },
+ {
+  "Number": 120,
+  "Word": "Kohl usw."
+ },
+ {
+  "Number": 121,
+  "Word": "Zahlen"
+ },
+ {
+  "Number": 122,
+  "Word": "eins"
+ },
+ {
+  "Number": 123,
+  "Word": "zwei"
+ },
+ {
+  "Number": 124,
+  "Word": "drei"
+ },
+ {
+  "Number": 125,
+  "Word": "vier"
+ },
+ {
+  "Number": 126,
+  "Word": "fünf"
+ },
+ {
+  "Number": 127,
+  "Word": "sechs"
+ },
+ {
+  "Number": 128,
+  "Word": "sieben"
+ },
+ {
+  "Number": 129,
+  "Word": "acht"
+ },
+ {
+  "Number": 130,
+  "Word": "neun"
+ },
+ {
+  "Number": 131,
+  "Word": "zehn"
+ },
+ {
+  "Number": 132,
+  "Word": "elf usw."
+ },
+ {
+  "Number": 133,
+  "Word": "Wörter, die mit einer Tür zu tun haben"
+ },
+ {
+  "Number": 134,
+  "Word": "Tür"
+ },
+ {
+  "Number": 135,
+  "Word": "Schlüssel"
+ },
+ {
+  "Number": 136,
+  "Word": "Türklinke"
+ },
+ {
+  "Number": 137,
+  "Word": "Scharnier"
+ },
+ {
+  "Number": 138,
+  "Word": "Guckloch"
+ },
+ {
+  "Number": 139,
+  "Word": "Türklingel"
+ },
+ {
+  "Number": 140,
+  "Word": "Öffne die Tür"
+ },
+ {
+  "Number": 141,
+  "Word": "Schließe die Tür"
+ },
+ {
+  "Number": 142,
+  "Word": "Schließe die Tür ab"
+ },
+ {
+  "Number": 143,
+  "Word": "Entriegeln Sie die Tür"
+ },
+ {
+  "Number": 144,
+  "Word": "Schau durch das Guckloch"
+ },
+ {
+  "Number": 145,
+  "Word": "Klingeln"
+ },
+ {
+  "Number": 146,
+  "Word": "Klopfen Sie an die Tür"
+ },
+ {
+  "Number": 147,
+  "Word": "Wörter, die mit Geld zu tun haben"
+ },
+ {
+  "Number": 148,
+  "Word": "Münze"
+ },
+ {
+  "Number": 149,
+  "Word": "Rechnung"
+ },
+ {
+  "Number": 150,
+  "Word": "1 Qirsh-Münze"
+ },
+ {
+  "Number": 151,
+  "Word": "5 Qirsh-Münze"
+ },
+ {
+  "Number": 152,
+  "Word": "10 Qirsh-Münze"
+ },
+ {
+  "Number": 153,
+  "Word": "25 Qirsh-Münze"
+ },
+ {
+  "Number": 154,
+  "Word": "50 Qirsh-Münze"
+ },
+ {
+  "Number": 155,
+  "Word": "1 Dinar-Münze"
+ },
+ {
+  "Number": 156,
+  "Word": "1 Dinar-Schein"
+ },
+ {
+  "Number": 157,
+  "Word": "5-Dinar-Schein"
+ },
+ {
+  "Number": 158,
+  "Word": "10-Dinar-Schein"
+ },
+ {
+  "Number": 159,
+  "Word": "20-Dinar-Schein"
+ },
+ {
+  "Number": 160,
+  "Word": "Zahl mir 35 Qirsh usw."
+ },
+ {
+  "Number": 161,
+  "Word": "Stecke 1 Dinar in deine Tasche usw."
+ },
+ {
+  "Number": 162,
+  "Word": "Gib mir Wechselgeld für diesen 1-Dinar-Schein"
+ },
+ {
+  "Number": 163,
+  "Word": "Wörtern"
+ },
+ {
+  "Number": 164,
+  "Word": "FM in meinem Handy."
+ },
+ {
+  "Number": 165,
+  "Word": "Kassettenrekorder"
+ },
+ {
+  "Number": 166,
+  "Word": "Taste"
+ },
+ {
+  "Number": 167,
+  "Word": "Mikrofon"
+ },
+ {
+  "Number": 168,
+  "Word": "Lautsprecher"
+ },
+ {
+  "Number": 169,
+  "Word": "Kopfhörer"
+ },
+ {
+  "Number": 170,
+  "Word": "Lautstärkeregler"
+ },
+ {
+  "Number": 171,
+  "Word": "DC-Adapterbuchse"
+ },
+ {
+  "Number": 172,
+  "Word": "DC-Adapter"
+ },
+ {
+  "Number": 173,
+  "Word": "Griff"
+ },
+ {
+  "Number": 174,
+  "Word": "Vorderseite"
+ },
+ {
+  "Number": 175,
+  "Word": "zurück"
+ },
+ {
+  "Number": 176,
+  "Word": "Seite"
+ },
+ {
+  "Number": 177,
+  "Word": "Batterieabdeckung"
+ },
+ {
+  "Number": 178,
+  "Word": "Batterie"
+ },
+ {
+  "Number": 179,
+  "Word": "Wiedergabetaste"
+ },
+ {
+  "Number": 180,
+  "Word": "Aufnahmetaste"
+ },
+ {
+  "Number": 181,
+  "Word": "Rückspultaste"
+ },
+ {
+  "Number": 182,
+  "Word": "Schnellvorlauftaste"
+ },
+ {
+  "Number": 183,
+  "Word": "Pause-Taste"
+ },
+ {
+  "Number": 184,
+  "Word": "Kassette"
+ },
+ {
+  "Number": 185,
+  "Word": "Legen Sie die Kassette in den Player"
+ },
+ {
+  "Number": 186,
+  "Word": "Nimm die Kassette aus dem Player"
+ },
+ {
+  "Number": 187,
+  "Word": "Kassette umdrehen)"
+ },
+ {
+  "Number": 188,
+  "Word": "push play"
+ },
+ {
+  "Number": 189,
+  "Word": "Erhöhen Sie die Lautstärke"
+ },
+ {
+  "Number": 190,
+  "Word": "Verringern Sie die Lautstärke"
+ },
+ {
+  "Number": 191,
+  "Word": "push stop"
+ },
+ {
+  "Number": 192,
+  "Word": "Drücken Sie die Pause-Taste"
+ },
+ {
+  "Number": 193,
+  "Word": "Spulen Sie das Band zurück"
+ },
+ {
+  "Number": 194,
+  "Word": "Vorspulen des Bandes"
+ },
+ {
+  "Number": 195,
+  "Word": "Nehmen"
+ },
+ {
+  "Number": 196,
+  "Word": "Schalten Sie das Radio ein"
+ },
+ {
+  "Number": 197,
+  "Word": "Schalten Sie das Radio aus"
+ },
+ {
+  "Number": 198,
+  "Word": "den Sender wechseln"
+ },
+ {
+  "Number": 199,
+  "Word": "etwas Musik finden"
+ },
+ {
+  "Number": 200,
+  "Word": "finden Sie einige Reden"
+ },
+ {
+  "Number": 201,
+  "Word": "Wechseln Sie das Band"
+ },
+ {
+  "Number": 202,
+  "Word": "Ändern Sie es zurück"
+ },
+ {
+  "Number": 203,
+  "Word": "Wörter, die mit einem Buch zu tun haben"
+ },
+ {
+  "Number": 204,
+  "Word": "Buch"
+ },
+ {
+  "Number": 205,
+  "Word": "Titel"
+ },
+ {
+  "Number": 206,
+  "Word": "Autor"
+ },
+ {
+  "Number": 207,
+  "Word": "Abdeckung"
+ },
+ {
+  "Number": 208,
+  "Word": "Inhaltsverzeichnis"
+ },
+ {
+  "Number": 209,
+  "Word": "Index"
+ },
+ {
+  "Number": 210,
+  "Word": "Kapitel"
+ },
+ {
+  "Number": 211,
+  "Word": "Seite"
+ },
+ {
+  "Number": 212,
+  "Word": "Seitenzahl"
+ },
+ {
+  "Number": 213,
+  "Word": "Abschnitt"
+ },
+ {
+  "Number": 214,
+  "Word": "Absatz"
+ },
+ {
+  "Number": 215,
+  "Word": "Satz"
+ },
+ {
+  "Number": 216,
+  "Word": "Zeitraum"
+ },
+ {
+  "Number": 217,
+  "Word": "Komma"
+ },
+ {
+  "Number": 218,
+  "Word": "Anführungszeichen"
+ },
+ {
+  "Number": 219,
+  "Word": "Öffne das Buch"
+ },
+ {
+  "Number": 220,
+  "Word": "Schließen Sie das Buch"
+ },
+ {
+  "Number": 221,
+  "Word": "weiter zu Seite"
+ },
+ {
+  "Number": 222,
+  "Word": "Blättere um"
+ },
+ {
+  "Number": 223,
+  "Word": "Blättere 5 Seiten vor"
+ },
+ {
+  "Number": 224,
+  "Word": "Blättere eine Seite zurück"
+ },
+ {
+  "Number": 225,
+  "Word": "Blättere drei Seiten zurück"
+ },
+ {
+  "Number": 226,
+  "Word": "Dinge, die Sie draußen in einer Stadt sehen werden"
+ },
+ {
+  "Number": 227,
+  "Word": "Auto"
+ },
+ {
+  "Number": 228,
+  "Word": "LKW"
+ },
+ {
+  "Number": 229,
+  "Word": "Motorrad"
+ },
+ {
+  "Number": 230,
+  "Word": "Fahrrad"
+ },
+ {
+  "Number": 231,
+  "Word": "Busse"
+ },
+ {
+  "Number": 232,
+  "Word": "Fußgänger"
+ },
+ {
+  "Number": 233,
+  "Word": "Polizist"
+ },
+ {
+  "Number": 234,
+  "Word": "Bürogebäude"
+ },
+ {
+  "Number": 235,
+  "Word": "Restaurant"
+ },
+ {
+  "Number": 236,
+  "Word": "Haus"
+ },
+ {
+  "Number": 237,
+  "Word": "Mehrfamilienhaus"
+ },
+ {
+  "Number": 238,
+  "Word": "Lebensmittelgeschäft"
+ },
+ {
+  "Number": 239,
+  "Word": "Gemüse-\/Obstladen"
+ },
+ {
+  "Number": 240,
+  "Word": "Metzgerei"
+ },
+ {
+  "Number": 241,
+  "Word": "Bäckerei"
+ },
+ {
+  "Number": 242,
+  "Word": "Tankstelle"
+ },
+ {
+  "Number": 243,
+  "Word": "Wörter"
+ },
+ {
+  "Number": 244,
+  "Word": "Auto"
+ },
+ {
+  "Number": 245,
+  "Word": "Tür"
+ },
+ {
+  "Number": 246,
+  "Word": "Vordersitz"
+ },
+ {
+  "Number": 247,
+  "Word": "Rücksitz"
+ },
+ {
+  "Number": 248,
+  "Word": "Fahrersitz"
+ },
+ {
+  "Number": 249,
+  "Word": "Beifahrersitz"
+ },
+ {
+  "Number": 250,
+  "Word": "Lenkrad"
+ },
+ {
+  "Number": 251,
+  "Word": "Sicherheitsgurt"
+ },
+ {
+  "Number": 252,
+  "Word": "Bremspedal"
+ },
+ {
+  "Number": 253,
+  "Word": "Gaspedal"
+ },
+ {
+  "Number": 254,
+  "Word": "Kupplungspedal"
+ },
+ {
+  "Number": 255,
+  "Word": "Tachometer"
+ },
+ {
+  "Number": 256,
+  "Word": "Gasanzeige"
+ },
+ {
+  "Number": 257,
+  "Word": "Gangschaltung"
+ },
+ {
+  "Number": 258,
+  "Word": "Notbremse"
+ },
+ {
+  "Number": 259,
+  "Word": "Zündschalter"
+ },
+ {
+  "Number": 260,
+  "Word": "Horn"
+ },
+ {
+  "Number": 261,
+  "Word": "Kapuze"
+ },
+ {
+  "Number": 262,
+  "Word": "Scheinwerfer"
+ },
+ {
+  "Number": 263,
+  "Word": "ht"
+ },
+ {
+  "Number": 264,
+  "Word": "Kotflügel"
+ },
+ {
+  "Number": 265,
+  "Word": "Nummernschild"
+ },
+ {
+  "Number": 266,
+  "Word": "Motor"
+ },
+ {
+  "Number": 267,
+  "Word": "Kofferraum"
+ },
+ {
+  "Number": 268,
+  "Word": "Reifen"
+ },
+ {
+  "Number": 269,
+  "Word": "Kotflügel"
+ },
+ {
+  "Number": 270,
+  "Word": "Auspuffrohr"
+ },
+ {
+  "Number": 271,
+  "Word": "Blinkerschalter"
+ },
+ {
+  "Number": 272,
+  "Word": "Lichtschalter"
+ },
+ {
+  "Number": 273,
+  "Word": "Ihren Sicherheitsgurt "
+ },
+ {
+  "Number": 274,
+  "Word": "Schalten Sie das Auto ein"
+ },
+ {
+  "Number": 275,
+  "Word": "schalte das Auto aus"
+ },
+ {
+  "Number": 276,
+  "Word": "vorwärts fahren"
+ },
+ {
+  "Number": 277,
+  "Word": "rückwärts gehen"
+ },
+ {
+  "Number": 278,
+  "Word": "rechts abbiegen"
+ },
+ {
+  "Number": 279,
+  "Word": "links abbiegen"
+ },
+ {
+  "Number": 280,
+  "Word": "eine Kehrtwende machen"
+ },
+ {
+  "Number": 281,
+  "Word": "Schalten Sie Ihren linken Blinker ein"
+ },
+ {
+  "Number": 282,
+  "Word": "Schalten Sie Ihren rechten Blinker ein"
+ },
+ {
+  "Number": 283,
+  "Word": "Benutze das Horn"
+ },
+ {
+  "Number": 284,
+  "Word": "halt"
+ },
+ {
+  "Number": 285,
+  "Word": "beschleunigen"
+ },
+ {
+  "Number": 286,
+  "Word": "verlangsamen"
+ },
+ {
+  "Number": 287,
+  "Word": "Schalten Sie die Scheinwerfer ein\/aus"
+ },
+ {
+  "Number": 288,
+  "Word": "Schalten Sie das Fernlicht ein\/aus"
+ },
+ {
+  "Number": 289,
+  "Word": "Schalten Sie das Innenlicht ein\/aus"
+ },
+ {
+  "Number": 290,
+  "Word": "kurbeln Sie das Fenster herunter"
+ },
+ {
+  "Number": 291,
+  "Word": "Das Fenster aufziehen"
+ },
+ {
+  "Number": 292,
+  "Word": "Tür abschließen (von innen)"
+ },
+ {
+  "Number": 293,
+  "Word": "Tür abschließen (von außen)"
+ },
+ {
+  "Number": 294,
+  "Word": "Führerschein"
+ },
+ {
+  "Number": 295,
+  "Word": "Präpositionen"
+ },
+ {
+  "Number": 296,
+  "Word": "auf"
+ },
+ {
+  "Number": 297,
+  "Word": "Zoll"
+ },
+ {
+  "Number": 298,
+  "Word": "unter"
+ },
+ {
+  "Number": 299,
+  "Word": "oben"
+ },
+ {
+  "Number": 300,
+  "Word": "neben \/ neben"
+ },
+ {
+  "Number": 301,
+  "Word": "vor"
+ },
+ {
+  "Number": 302,
+  "Word": "hinter"
+ },
+ {
+  "Number": 303,
+  "Word": "auf der linken Seite"
+ },
+ {
+  "Number": 304,
+  "Word": "rechts von"
+ },
+ {
+  "Number": 305,
+  "Word": "Wohnzimmer"
+ },
+ {
+  "Number": 306,
+  "Word": "Sofa"
+ },
+ {
+  "Number": 307,
+  "Word": "Stuhl"
+ },
+ {
+  "Number": 308,
+  "Word": "Kissen"
+ },
+ {
+  "Number": 309,
+  "Word": "Couchtisch"
+ },
+ {
+  "Number": 310,
+  "Word": "Teppich"
+ },
+ {
+  "Number": 311,
+  "Word": "Teppich"
+ },
+ {
+  "Number": 312,
+  "Word": "Kissen"
+ },
+ {
+  "Number": 313,
+  "Word": "Fenster"
+ },
+ {
+  "Number": 314,
+  "Word": "Vorhang"
+ },
+ {
+  "Number": 315,
+  "Word": "Lampe"
+ },
+ {
+  "Number": 316,
+  "Word": "Deckenleuchte"
+ },
+ {
+  "Number": 317,
+  "Word": "Lichtschalter"
+ },
+ {
+  "Number": 318,
+  "Word": "elektrischer Stecker"
+ },
+ {
+  "Number": 319,
+  "Word": "Telefonstecker"
+ },
+ {
+  "Number": 320,
+  "Word": "Telefon"
+ },
+ {
+  "Number": 321,
+  "Word": "Telefonkabel"
+ },
+ {
+  "Number": 322,
+  "Word": "Fernsehen"
+ },
+ {
+  "Number": 323,
+  "Word": "Bücherregal"
+ },
+ {
+  "Number": 324,
+  "Word": "Schlafzimmer"
+ },
+ {
+  "Number": 325,
+  "Word": "Bett"
+ },
+ {
+  "Number": 326,
+  "Word": "Blatt"
+ },
+ {
+  "Number": 327,
+  "Word": "Kissen"
+ },
+ {
+  "Number": 328,
+  "Word": "Decke"
+ },
+ {
+  "Number": 329,
+  "Word": "Kommode"
+ },
+ {
+  "Number": 330,
+  "Word": "Schrank"
+ },
+ {
+  "Number": 331,
+  "Word": "Kleiderbügel"
+ },
+ {
+  "Number": 332,
+  "Word": "Spiegel"
+ },
+ {
+  "Number": 333,
+  "Word": "Bad"
+ },
+ {
+  "Number": 334,
+  "Word": "Toilette"
+ },
+ {
+  "Number": 335,
+  "Word": "Badewanne"
+ },
+ {
+  "Number": 336,
+  "Word": "Toilettenpapier"
+ },
+ {
+  "Number": 337,
+  "Word": "sinken"
+ },
+ {
+  "Number": 338,
+  "Word": "Handtuch"
+ },
+ {
+  "Number": 339,
+  "Word": "Duschvorhang"
+ },
+ {
+  "Number": 340,
+  "Word": "Zahnbürste"
+ },
+ {
+  "Number": 341,
+  "Word": "Zahnpasta"
+ },
+ {
+  "Number": 342,
+  "Word": "Kamm"
+ },
+ {
+  "Number": 343,
+  "Word": "Kolben"
+ },
+ {
+  "Number": 344,
+  "Word": "Shampoo"
+ },
+ {
+  "Number": 345,
+  "Word": "Deodorant"
+ },
+ {
+  "Number": 346,
+  "Word": "grundlegende Adjektive"
+ },
+ {
+  "Number": 347,
+  "Word": "groß"
+ },
+ {
+  "Number": 348,
+  "Word": "klein"
+ },
+ {
+  "Number": 349,
+  "Word": "mittel"
+ },
+ {
+  "Number": 350,
+  "Word": "lang"
+ },
+ {
+  "Number": 351,
+  "Word": "kurz"
+ },
+ {
+  "Number": 352,
+  "Word": "neu"
+ },
+ {
+  "Number": 353,
+  "Word": "alt"
+ },
+ {
+  "Number": 354,
+  "Word": "dick"
+ },
+ {
+  "Number": 355,
+  "Word": "dünn"
+ },
+ {
+  "Number": 356,
+  "Word": "Farben"
+ },
+ {
+  "Number": 357,
+  "Word": "Farbe"
+ },
+ {
+  "Number": 358,
+  "Word": "weiß"
+ },
+ {
+  "Number": 359,
+  "Word": "schwarz"
+ },
+ {
+  "Number": 360,
+  "Word": "rot"
+ },
+ {
+  "Number": 361,
+  "Word": "Orange"
+ },
+ {
+  "Number": 362,
+  "Word": "gelb"
+ },
+ {
+  "Number": 363,
+  "Word": "grün"
+ },
+ {
+  "Number": 364,
+  "Word": "blau"
+ },
+ {
+  "Number": 365,
+  "Word": "lila"
+ },
+ {
+  "Number": 366,
+  "Word": "Rosa"
+ },
+ {
+  "Number": 367,
+  "Word": "braun"
+ },
+ {
+  "Number": 368,
+  "Word": "grau"
+ },
+ {
+  "Number": 369,
+  "Word": "Formen"
+ },
+ {
+  "Number": 370,
+  "Word": "Platz"
+ },
+ {
+  "Number": 371,
+  "Word": "Rechteck"
+ },
+ {
+  "Number": 372,
+  "Word": "Dreieck"
+ },
+ {
+  "Number": 373,
+  "Word": "Kreis"
+ },
+ {
+  "Number": 374,
+  "Word": "Oval"
+ },
+ {
+  "Number": 375,
+  "Word": "Fünfeck"
+ },
+ {
+  "Number": 376,
+  "Word": "Sechskant"
+ },
+ {
+  "Number": 377,
+  "Word": "Würfel"
+ },
+ {
+  "Number": 378,
+  "Word": "Box"
+ },
+ {
+  "Number": 379,
+  "Word": "Kugel"
+ },
+ {
+  "Number": 380,
+  "Word": "Dinge, die man mit einem Stift machen kann"
+ },
+ {
+  "Number": 381,
+  "Word": "Kappe"
+ },
+ {
+  "Number": 382,
+  "Word": "Nehmen Sie die Kappe ab"
+ },
+ {
+  "Number": 383,
+  "Word": "Setzen Sie die Kappe wieder auf"
+ },
+ {
+  "Number": 384,
+  "Word": "schreiben"
+ },
+ {
+  "Number": 385,
+  "Word": "Unterschreiben Sie mit Ihrem Namen"
+ },
+ {
+  "Number": 386,
+  "Word": "zeichne eine Linie, einen Kreis, ein Quadrat usw."
+ },
+ {
+  "Number": 387,
+  "Word": "grundlegende Adverbien"
+ },
+ {
+  "Number": 388,
+  "Word": "schnell"
+ },
+ {
+  "Number": 389,
+  "Word": "langsam"
+ },
+ {
+  "Number": 390,
+  "Word": "sorgfältig"
+ },
+ {
+  "Number": 391,
+  "Word": "Stimme Dinge"
+ },
+ {
+  "Number": 392,
+  "Word": "sprechen"
+ },
+ {
+  "Number": 393,
+  "Word": "singen"
+ },
+ {
+  "Number": 394,
+  "Word": "summen"
+ },
+ {
+  "Number": 395,
+  "Word": "flüstern"
+ },
+ {
+  "Number": 396,
+  "Word": "schreien\/schreien"
+ },
+ {
+  "Number": 397,
+  "Word": "aufhören zu sprechen"
+ },
+ {
+  "Number": 398,
+  "Word": "Haushaltswaren"
+ },
+ {
+  "Number": 399,
+  "Word": "Glühbirne"
+ },
+ {
+  "Number": 400,
+  "Word": "Hammer"
+ },
+ {
+  "Number": 401,
+  "Word": "Schraubendreher"
+ },
+ {
+  "Number": 402,
+  "Word": "Schraube"
+ },
+ {
+  "Number": 403,
+  "Word": "Schraubenschlüssel"
+ },
+ {
+  "Number": 404,
+  "Word": "Zange"
+ },
+ {
+  "Number": 405,
+  "Word": "Besen"
+ },
+ {
+  "Number": 406,
+  "Word": "wischen"
+ },
+ {
+  "Number": 407,
+  "Word": "Kehrschaufel"
+ },
+ {
+  "Number": 408,
+  "Word": "fege den Boden"
+ },
+ {
+  "Number": 409,
+  "Word": "den Boden wischen"
+ },
+ {
+  "Number": 410,
+  "Word": "Mülleimer"
+ },
+ {
+  "Number": 411,
+  "Word": "Müllsack"
+ },
+ {
+  "Number": 412,
+  "Word": "Waschmaschine"
+ },
+ {
+  "Number": 413,
+  "Word": "Trockner"
+ },
+ {
+  "Number": 414,
+  "Word": "Eisen"
+ },
+ {
+  "Number": 415,
+  "Word": "Bügelbrett"
+ },
+ {
+  "Number": 416,
+  "Word": "Wäscheklammer"
+ },
+ {
+  "Number": 417,
+  "Word": "Kleidung"
+ },
+ {
+  "Number": 418,
+  "Word": "Hemd"
+ },
+ {
+  "Number": 419,
+  "Word": "Hosen"
+ },
+ {
+  "Number": 420,
+  "Word": "Schuh"
+ },
+ {
+  "Number": 421,
+  "Word": "Schuhe"
+ },
+ {
+  "Number": 422,
+  "Word": "Mantel"
+ },
+ {
+  "Number": 423,
+  "Word": "Unterwäsche"
+ },
+ {
+  "Number": 424,
+  "Word": "Socke"
+ },
+ {
+  "Number": 425,
+  "Word": "Socken"
+ },
+ {
+  "Number": 426,
+  "Word": "Uhr"
+ },
+ {
+  "Number": 427,
+  "Word": "Pullover"
+ },
+ {
+  "Number": 428,
+  "Word": "Hut"
+ },
+ {
+  "Number": 429,
+  "Word": "Gürtel"
+ },
+ {
+  "Number": 430,
+  "Word": "Hemd"
+ },
+ {
+  "Number": 431,
+  "Word": "Krawatte"
+ },
+ {
+  "Number": 432,
+  "Word": "Kleid"
+ },
+ {
+  "Number": 433,
+  "Word": "Rock"
+ },
+ {
+  "Number": 434,
+  "Word": "Bluse"
+ },
+ {
+  "Number": 435,
+  "Word": "Körperteile"
+ },
+ {
+  "Number": 436,
+  "Word": "Haare"
+ },
+ {
+  "Number": 437,
+  "Word": "Stirn"
+ },
+ {
+  "Number": 438,
+  "Word": "Augenbraue"
+ },
+ {
+  "Number": 439,
+  "Word": "Wimper"
+ },
+ {
+  "Number": 440,
+  "Word": "Auge"
+ },
+ {
+  "Number": 441,
+  "Word": "Ohr"
+ },
+ {
+  "Number": 442,
+  "Word": "Wange"
+ },
+ {
+  "Number": 443,
+  "Word": "Nase"
+ },
+ {
+  "Number": 444,
+  "Word": "Lippe\/Lippen"
+ },
+ {
+  "Number": 445,
+  "Word": "Mund"
+ },
+ {
+  "Number": 446,
+  "Word": "Schnurrbart"
+ },
+ {
+  "Number": 447,
+  "Word": "Bart"
+ },
+ {
+  "Number": 448,
+  "Word": "Kinn"
+ },
+ {
+  "Number": 449,
+  "Word": "Kehle"
+ },
+ {
+  "Number": 450,
+  "Word": "Zahn \/ Zähne"
+ },
+ {
+  "Number": 451,
+  "Word": "Zunge"
+ },
+ {
+  "Number": 452,
+  "Word": "Brust"
+ },
+ {
+  "Number": 453,
+  "Word": "zurück"
+ },
+ {
+  "Number": 454,
+  "Word": "Schulter"
+ },
+ {
+  "Number": 455,
+  "Word": "Bauch"
+ },
+ {
+  "Number": 456,
+  "Word": "Arm"
+ },
+ {
+  "Number": 457,
+  "Word": "Bein"
+ },
+ {
+  "Number": 458,
+  "Word": "Oberschenkel"
+ },
+ {
+  "Number": 459,
+  "Word": "Schienbein"
+ },
+ {
+  "Number": 460,
+  "Word": "Hand"
+ },
+ {
+  "Number": 461,
+  "Word": "Finger"
+ },
+ {
+  "Number": 462,
+  "Word": "Finger"
+ },
+ {
+  "Number": 463,
+  "Word": "Daumen"
+ },
+ {
+  "Number": 464,
+  "Word": "Knöchel"
+ },
+ {
+  "Number": 465,
+  "Word": "Fingernagel"
+ },
+ {
+  "Number": 466,
+  "Word": "Ellbogen"
+ },
+ {
+  "Number": 467,
+  "Word": "Knie"
+ },
+ {
+  "Number": 468,
+  "Word": "Fuß"
+ },
+ {
+  "Number": 469,
+  "Word": "Knöchel"
+ },
+ {
+  "Number": 470,
+  "Word": "Zehe \/ Zehen"
+ },
+ {
+  "Number": 471,
+  "Word": "Büro"
+ },
+ {
+  "Number": 472,
+  "Word": "Büro"
+ },
+ {
+  "Number": 473,
+  "Word": "Schreibtisch"
+ },
+ {
+  "Number": 474,
+  "Word": "Rechner"
+ },
+ {
+  "Number": 475,
+  "Word": "Tastatur"
+ },
+ {
+  "Number": 476,
+  "Word": "447.&nbsp;überwachen"
+ },
+ {
+  "Number": 477,
+  "Word": "Drucker"
+ },
+ {
+  "Number": 478,
+  "Word": "Maus"
+ },
+ {
+  "Number": 479,
+  "Word": "Druckerkabel"
+ },
+ {
+  "Number": 480,
+  "Word": "Spannung regelmäßig"
+ },
+ {
+  "Number": 481,
+  "Word": "Netzkabel"
+ },
+ {
+  "Number": 482,
+  "Word": "Laufwerk"
+ },
+ {
+  "Number": 483,
+  "Word": "Diskette"
+ },
+ {
+  "Number": 484,
+  "Word": "Papier"
+ },
+ {
+  "Number": 485,
+  "Word": "Modem"
+ },
+ {
+  "Number": 486,
+  "Word": "Faxgerät"
+ },
+ {
+  "Number": 487,
+  "Word": "Scanner"
+ },
+ {
+  "Number": 488,
+  "Word": "Aktenvernichter"
+ },
+ {
+  "Number": 489,
+  "Word": "Wörter, die mit einem Wandkalender zu tun haben"
+ },
+ {
+  "Number": 490,
+  "Word": "heute"
+ },
+ {
+  "Number": 491,
+  "Word": "gestern"
+ },
+ {
+  "Number": 492,
+  "Word": "Morgen"
+ },
+ {
+  "Number": 493,
+  "Word": "vorgestern"
+ },
+ {
+  "Number": 494,
+  "Word": "übermorgen"
+ },
+ {
+  "Number": 495,
+  "Word": "Woche"
+ },
+ {
+  "Number": 496,
+  "Word": "diese Woche"
+ },
+ {
+  "Number": 497,
+  "Word": "letzte Woche"
+ },
+ {
+  "Number": 498,
+  "Word": "nächste Woche"
+ },
+ {
+  "Number": 499,
+  "Word": "Sonntag"
+ },
+ {
+  "Number": 500,
+  "Word": "Montag"
+ },
+ {
+  "Number": 501,
+  "Word": "Dienstag"
+ },
+ {
+  "Number": 502,
+  "Word": "Mittwoch"
+ },
+ {
+  "Number": 503,
+  "Word": "Donnerstag"
+ },
+ {
+  "Number": 504,
+  "Word": "Freitag"
+ },
+ {
+  "Number": 505,
+  "Word": "Samstag"
+ },
+ {
+  "Number": 506,
+  "Word": "Monat "
+ },
+ {
+  "Number": 507,
+  "Word": "nächsten Donnerstag"
+ },
+ {
+  "Number": 508,
+  "Word": "letzten Montag"
+ },
+ {
+  "Number": 509,
+  "Word": "eine Woche von Mittwoch"
+ },
+ {
+  "Number": 510,
+  "Word": "Urlaub"
+ },
+ {
+  "Number": 511,
+  "Word": "mit Uhr"
+ },
+ {
+  "Number": 512,
+  "Word": "Uhr"
+ },
+ {
+  "Number": 513,
+  "Word": "1:00"
+ },
+ {
+  "Number": 514,
+  "Word": "2:00"
+ },
+ {
+  "Number": 515,
+  "Word": "3:00"
+ },
+ {
+  "Number": 516,
+  "Word": "4:00"
+ },
+ {
+  "Number": 517,
+  "Word": "5:00"
+ },
+ {
+  "Number": 518,
+  "Word": "6:00"
+ },
+ {
+  "Number": 519,
+  "Word": "7:00"
+ },
+ {
+  "Number": 520,
+  "Word": "8:00"
+ },
+ {
+  "Number": 521,
+  "Word": "9:00"
+ },
+ {
+  "Number": 522,
+  "Word": "10:00"
+ },
+ {
+  "Number": 523,
+  "Word": "11:00"
+ },
+ {
+  "Number": 524,
+  "Word": "12:00"
+ },
+ {
+  "Number": 525,
+  "Word": "1:15"
+ },
+ {
+  "Number": 526,
+  "Word": "2:30"
+ },
+ {
+  "Number": 527,
+  "Word": "3:45"
+ },
+ {
+  "Number": 528,
+  "Word": "4:20"
+ },
+ {
+  "Number": 529,
+  "Word": "9:40"
+ },
+ {
+  "Number": 530,
+  "Word": "8:55"
+ },
+ {
+  "Number": 531,
+  "Word": "8:05"
+ },
+ {
+  "Number": 532,
+  "Word": "AM"
+ },
+ {
+  "Number": 533,
+  "Word": "Uhr"
+ }
+]
